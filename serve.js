@@ -1,3 +1,4 @@
+"use strict"
 const build = require('./build')
 const chokidar = require('chokidar')
 const st = require('st')
