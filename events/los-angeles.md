@@ -1,10 +1,12 @@
 # Los Angeles
 
+This event is being run in partnership with [JS.LA](http://js.la/).
+
 * **Location:** ArcLight Cinemas
 * **Address:** 6360 Sunset Blvd, Los Angeles, CA 90028
 * **Parking:** Validated parking is $4.00 for 4 hours.
 
-[Register here!](https://ti.to/jsla/february-2016)
+<a class="button" href="https://ti.to/jsla/february-2016">Register Now!</a>
 
 ## Sponsors
 
