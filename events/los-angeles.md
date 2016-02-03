@@ -16,6 +16,8 @@ This event is being run in partnership with [JS.LA](http://js.la/).
 
 Time | Topic | Speaker
 --- | --- | ---
-6pm | Intro | Mikeal Rogers (@mikeal)
-6:10pm | TBD | TBD
+6pm | Reception | Everybody!
+7pm | Intro | Mikeal Rogers (@mikeal)
+7:30pm | High performance apps with DoneJS | [Justin Meyer](https://twitter.com/justinbmeyer)
+7:50pm | TBD | [Andrew Hao](https://github.com/andrewhao)
 9pm | Closing | Goodbye!
