@@ -16,6 +16,11 @@
   div.events-container {
     background-color: #F2F2F2;
   }
+  div.events-container div.row p img {
+    max-width:300px;
+    max-height:100px;
+    cursor:pointer;
+  }
 </style>
 
 <div class="row">
@@ -36,4 +41,16 @@
     {{{content}}}
   </div>
 </div>
+
+<script>
+  var elementList = document.querySelectorAll('div.events-container div.row p img')
+  for (var i=0;i<elementList.length;i++) {
+    ;(function () {
+      var elem = elementList[i]
+      elem.addEventListener('click', function () {
+        window.location = elem.alt
+      })
+    })()
+  }
+</script>
 

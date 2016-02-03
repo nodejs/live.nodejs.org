@@ -9,5 +9,4 @@ TBD
 
 ## Agenda
 
-Time | Topic | Speaker
---- | --- | ---
+TBD

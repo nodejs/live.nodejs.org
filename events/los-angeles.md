@@ -1,12 +1,14 @@
 # Los Angeles
 
-* **Location** ArcLight Cinemas
-* **Address** 6360 Sunset Blvd, Los Angeles, CA 90028
-* **Parking** Validated parking is $4.00 for 4 hours.
+* **Location:** ArcLight Cinemas
+* **Address:** 6360 Sunset Blvd, Los Angeles, CA 90028
+* **Parking:** Validated parking is $4.00 for 4 hours.
+
+[Register here!](https://ti.to/jsla/february-2016)
 
 ## Sponsors
 
-TBD
+![https://www.signalsciences.com/](/static/sponsors/sigsci-screen-rgb-default.svg "Signal Sciences")
 
 ## Agenda
 

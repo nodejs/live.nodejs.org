@@ -26,7 +26,6 @@
 
       ga('create', 'UA-67020396-2', 'auto');
       ga('send', 'pageview');
-
     </script>
  <head>
  <body>
@@ -65,7 +64,7 @@
   }
   
   div.top-container div.column h2 {
-   padding-top:40px; 
+   padding-top:50px; 
    color:#80bd01;
    font-weight:500;
   }
@@ -85,7 +84,7 @@
   }
   img.logo {
     max-width:100%;
-    padding: 20px 20px 20px 20px;
+    padding: 50px 50px 50px 50px;
   }
 </style>
 
@@ -120,6 +119,11 @@
   div.events-container {
     background-color: #F2F2F2;
   }
+  div.events-container div.row p img {
+    max-width:300px;
+    max-height:100px;
+    cursor:pointer;
+  }
 </style>
 
 <div class="row">
@@ -150,6 +154,18 @@
 
   </div>
 </div>
+
+<script>
+  var elementList = document.querySelectorAll('div.events-container div.row p img')
+  for (var i=0;i<elementList.length;i++) {
+    ;(function () {
+      var elem = elementList[i]
+      elem.addEventListener('click', function () {
+        window.location = elem.alt
+      })
+    })()
+  }
+</script>
 
 
 </div>
