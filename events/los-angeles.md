@@ -21,7 +21,7 @@ Time | Topic | Speaker
 6pm | Reception | Everybody!
 7pm | Intro | [Mikeal Rogers](https://twitter.com/mikeal)
 7:30pm | High performance apps with DoneJS | [Justin Meyer](https://twitter.com/justinbmeyer)
-7:50pm | TBD | [Andrew Hao](https://github.com/andrewhao)
+7:50pm | Reactive Programming for Couch Potatoes | [Andrew Hao](https://github.com/andrewhao)
 9pm | Closing | Goodbye!
 
 More talks will be announced soon!
@@ -55,4 +55,21 @@ he might even turn on worker thread rendering.
 
 #### [Andrew Hao](https://github.com/andrewhao)
 
-TBD :)
+Andrew is a software developer at Carbon Five, a software development and product consultancy 
+in Santa Monica. As a trail runner, he loves finding new routes for long runs in the mountains.
+
+Andrew is speaking about functional reactive programming and how it's the bee's knees. 
+But... you can't figure out how it works, and all the math-talk and theory jargon that surround 
+the subject are confusing to you.
+ 
+Fear not! Together, we'll go through the concepts of streams, functions, and data flow. We'll 
+take the concepts apart with diagrams and explain them in plain English.
+ 
+With this newfound knowledge, we'll build ourselves a pedometer (step counter) with our new 
+learnings and RxJS, a Javascript FRP library. We'll discuss how we can embed these things in 
+real-world physical devices - like the Pebble smartwatch!
+ 
+We'll even talk a little bit about how reactive programming concepts apply to real world 
+frameworks like React, Redux, and Elm. In the end, you'll not only get up to speed about 
+reactive programming, you'll be able to have new insights and tools to implement reactive 
+principles in your next project.
