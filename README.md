@@ -17,4 +17,5 @@ npm start
 
 The server *should* auto-reload but it's having some problems :(
   
-All content is in markdown. The main page is `index.md` and all the individual event pages are in `events/`
+All content is in markdown. The main page is `index.md` and all the individual event 
+pages are in `events/`

@@ -2,6 +2,7 @@
 
 This event is being run in partnership with [JS.LA](http://js.la/).
 
+* **Day/Time:** Thursday February 25th starting at 6pm.
 * **Location:** ArcLight Cinemas
 * **Address:** 6360 Sunset Blvd, Los Angeles, CA 90028
 * **Parking:** Validated parking is $4.00 for 4 hours.
