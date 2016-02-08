@@ -6,13 +6,12 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "node build.js",
-    "start": "node serve.js"
+    "start": "nodemon -e hbs,md,js,css --ignore node_modules serve.js"
   },
   "keywords": [],
   "author": "Mikeal Rogers <mikeal.rogers@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "chokidar": "^1.4.2",
     "handlebars": "^4.0.5",
     "marked": "^0.3.5",
     "milligram": "^1.0.3",
