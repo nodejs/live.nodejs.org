@@ -1,6 +1,6 @@
 "use strict"
-const build = require('./build')
-const chokidar = require('chokidar')
+
+const build = require('./build')()
 const st = require('st')
 const http = require('http')
 const path = require('path')
@@ -9,23 +9,6 @@ const mount = st({
   cache: false,
   index: 'index.html'
 })
-
-const opts = {
-  persistent: true,
-  ignoreInitial: true,
-  followSymlinks: true,
-  usePolling: true,
-  alwaysStat: false,
-  depth: undefined,
-  interval: 100,
-  ignorePermissionErrors: false,
-  atomic: true
-}
-const watcher = chokidar.watch(__dirname, opts)
-watcher.on('change', build)
-watcher.on('add', function (p) { watcher.add(p); build() })
-
-build()
 
 http.createServer(
   function (req, res) { mount(req, res) }
