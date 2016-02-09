@@ -11,4 +11,5 @@ We're still looking for sponsors. <a href="mailto:tbenzies@linuxfoundation.org?s
 
 ## Agenda
 
-TBD
+[Let us know](https://github.com/nodejs/live.nodejs.org#interested-in-speaking) 
+if you're interested in speaking :)

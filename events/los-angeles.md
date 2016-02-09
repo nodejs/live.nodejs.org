@@ -25,7 +25,8 @@ Time | Topic | Speaker
 7:50pm | Reactive Programming for Couch Potatoes | [Andrew Hao](https://github.com/andrewhao)
 9pm | Closing | Goodbye!
 
-More talks will be announced soon!
+More talks will be announced soon! If you're interested in speaking 
+[let us know](https://github.com/nodejs/live.nodejs.org#interested-in-speaking) :)
 
 # Speakers
 

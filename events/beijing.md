@@ -9,5 +9,5 @@
 
 We're still looking for sponsors. <a href="mailto:tbenzies@linuxfoundation.org?subject=Node.js%20Live%20Sponsorship">Contact us</a> if you're interested.
 
-
-TBD
+[Let us know](https://github.com/nodejs/live.nodejs.org#interested-in-speaking) 
+if you're interested in speaking :)
