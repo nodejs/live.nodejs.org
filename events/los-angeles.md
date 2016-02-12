@@ -16,6 +16,14 @@ This event is being run in partnership with [JS.LA](http://js.la/).
 
 We're still looking for sponsors. <a href="mailto:tbenzies@linuxfoundation.org?subject=Node.js%20Live%20Sponsorship">Contact us</a> if you're interested.
 
+## NodeTogether by ![https://www.npmjs.com](/static/sponsors/npm-logo.svg "npm")
+
+**February 24, 2016, 6:00-10:00pm**
+
+NodeTogether is an educational initiative to improve the diversity of the Node community by bringing people of underrepresented groups together to learn Node.js.
+
+To learn more, and/or if you are interested in applying as a student, mentor, or sponsor, please visit [http://www.nodetogether.org/](http://www.nodetogether.org/).
+
 ## Agenda
 
 Time | Topic | Speaker
