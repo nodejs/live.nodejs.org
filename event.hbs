@@ -1,5 +1,8 @@
 <style>
-  dt h3 {
+  nav ul {
+    list-style-type:none;
+  }
+  li h3 {
     color: black;
     font-family: "Open Sans Condensed",sans-serif;
     text-transform: uppercase;
@@ -9,12 +12,13 @@
     margin-top: 4px;
     margin-bottom: 4px;
   }
-  dt h3 a, dt h3 a:visited{
+  li h3 a, li h3 a:visited{
     text-decoration: underline;
     color: black;
   }
   div.events-container {
     background-color: #F2F2F2;
+    background-image: none;
   }
   div.events-container div.row p img {
     max-width:300px;
@@ -32,17 +36,19 @@
 
 <div class="row">
   <div class="column">
-    <dl>
-      <dt><h3><a href="los-angeles.html">Los Angeles</a></h3></dt>
-      <dt><h3><a href="bangalore.html">Bangalore</a></h3></dt>
-      <dt><h3><a href="paris.html">Paris</a></h3></dt>
-      <dt><h3><a href="beijing.html">Beijing</a></h3></dt>
-      <dt><h3><a href="chicago.html">Chicago</a></h3></dt>
-      <dt><h3><a href="london.html">London</a></h3></dt>
-      <dt><h3><a href="boston.html">Boston</a></h3></dt>
-      <dt><h3><a href="washington.html">Wash. DC</a></h3></dt>
-      <dt><h3><a href="seoul.html">Seoul</a></h3></dt>
-    </dl>
+    <nav>
+      <ul>
+        <li><h3><a href="los-angeles.html">Los Angeles</a></h3></li>
+        <li><h3><a href="bangalore.html">Bangalore</a></h3></li>
+        <li><h3><a href="paris.html">Paris</a></h3></li>
+        <li><h3><a href="beijing.html">Beijing</a></h3></li>
+        <li><h3><a href="chicago.html">Chicago</a></h3></li>
+        <li><h3><a href="london.html">London</a></h3></li>
+        <li><h3><a href="boston.html">Boston</a></h3></li>
+        <li><h3><a href="washington.html">Wash. DC</a></h3></li>
+        <li><h3><a href="seoul.html">Seoul</a></h3></li>
+      </ul>
+    </nav>
   </div>
   <div class="column column-60">
     {{{content}}}
