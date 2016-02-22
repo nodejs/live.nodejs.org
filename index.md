@@ -5,7 +5,7 @@
     </div>
     <div class="live-event column">
       <h3><a href="events/bangalore.html">Bangalore</a></h3>
-      <p>March, 2016</p>
+      <p>March, 19th, 2016</p>
     </div>
     <div class="live-event column">
       <h3><a href="events/paris.html">Paris</a></h3>

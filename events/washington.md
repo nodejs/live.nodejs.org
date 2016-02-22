@@ -18,4 +18,4 @@ To learn more, and/or if you are interested in applying as a student, mentor, or
 ## Agenda
 
 [Let us know](https://github.com/nodejs/live.nodejs.org#interested-in-speaking) 
-if you're interested in speaking :)
+if you're interested in speaking :)`

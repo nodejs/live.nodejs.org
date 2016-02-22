@@ -1,7 +1,8 @@
 # Bangalore
 
-* **Location** TBD
-* **Address** TBD
+* **Date:** March, 19th, 2016
+* **Location:** Wipro, Tower S4, 5th floor SJP 2, Auditorium 
+* **Address:** Doddakannelli, Sarjapur Road, Bengaluru, Karnataka 560035
 
 <a class="button" href="https://docs.google.com/a/linuxfoundation.org/forms/d/1VuGLKcWJDi2wtfcgJvgzvarkYnedJSeaimnRIuCGQq8/viewform">Get Notified!</a>
 
