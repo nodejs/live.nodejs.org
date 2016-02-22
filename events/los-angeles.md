@@ -13,6 +13,7 @@ This event is being run in partnership with [JS.LA](http://js.la/).
 
 ![https://signalsciences.com/r/ejsla](/static/sponsors/sigsci-screen-rgb-default.svg "Signal Sciences")
 ![http://www.mheducation.com/](/static/sponsors/mhe-lg.png "McGraw Hill Education")
+![http://oxfordroad.com/](/static/sponsors/oxford.jpg "Oxford Road")
 
 We're still looking for sponsors. <a href="mailto:tbenzies@linuxfoundation.org?subject=Node.js%20Live%20Sponsorship">Contact us</a> if you're interested.
 
@@ -32,10 +33,12 @@ Time | Topic | Speaker
 7pm | Intro | [Mikeal Rogers](https://twitter.com/mikeal)
 7:30pm | High performance apps with DoneJS | [Justin Meyer](https://twitter.com/justinbmeyer)
 7:50pm | Reactive Programming for Couch Potatoes | [Andrew Hao](https://github.com/andrewhao)
-9pm | Closing | Goodbye!
+8:10pm | You Don't Know npm | [Ashley Williams](https://twitter.com/ag_dubs)
+8:30pm | Docker for Node.js | [Daniel Shaw](https://twitter.com/dshaw)
+8:50pm | After Party! | Oxford Road
 
-More talks will be announced soon! If you're interested in speaking 
-[let us know](https://github.com/nodejs/live.nodejs.org#interested-in-speaking) :)
+After party is down the road at Oxford Road, 
+[6430 Sunset Blvd. #600 Los Angeles CA 90028](6430 Sunset Blvd. #600 Los Angeles CA 90028).
 
 # Speakers
 
@@ -84,3 +87,20 @@ We'll even talk a little bit about how reactive programming concepts apply to re
 frameworks like React, Redux, and Elm. In the end, you'll not only get up to speed about 
 reactive programming, you'll be able to have new insights and tools to implement reactive 
 principles in your next project.
+
+#### [Ashley Williams](https://github.com/ashleygwilliams)
+
+Ashley, npm's Developer Community and Content Manager, gives a quick tour of npm’s greatest 
+features, old and new, and demonstrates how they can be integrated into your workflow to make 
+you better, happier, and more productive. Ashley will outline the most commonly used npm tools 
+for starting a project, managing a project through development, test, and deployment, and 
+managing teams and organization project work. She’ll focus in particular on workflows that 
+will help frontend developers, npm’s biggest and fastest-growing group of users.
+
+#### [Daniel Shaw](https://github.com/dshaw)
+
+NodeSource maintains hundreds of unique platform Docker images of Node.js across linux 
+distribution platforms and versions and Node.js versions. These are used as base images 
+for Enterprise Node.js users and as an official service for NodeSource N|Support customers. 
+We will share how we manage and test across all these permutations and why NodeSource recently 
+dropped automated builds on Docker Hub.
