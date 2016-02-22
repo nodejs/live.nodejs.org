@@ -13,7 +13,7 @@ This event is being run in partnership with [JS.LA](http://js.la/).
 
 ![https://signalsciences.com/r/ejsla](/static/sponsors/sigsci-screen-rgb-default.svg "Signal Sciences")
 ![http://www.mheducation.com/](/static/sponsors/mhe-lg.png "McGraw Hill Education")
-![http://oxfordroad.com/](/static/sponsors/oxford.jpg "Oxford Road")
+![http://oxfordroad.com/](/static/sponsors/oxford.png "Oxford Road")
 
 We're still looking for sponsors. <a href="mailto:tbenzies@linuxfoundation.org?subject=Node.js%20Live%20Sponsorship">Contact us</a> if you're interested.
 
