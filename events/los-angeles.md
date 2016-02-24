@@ -38,7 +38,13 @@ Time | Topic | Speaker
 8:50pm | After Party! | Oxford Road
 
 After party is down the road at Oxford Road, 
-[6430 Sunset Blvd. #600 Los Angeles CA 90028](6430 Sunset Blvd. #600 Los Angeles CA 90028).
+[6430 Sunset Blvd. #600 Los Angeles CA 90028](6430 Sunset Blvd. #600 Los Angeles CA 90028). 
+
+Oxford Road is a profitable startup that is growing rapidly.  On behalf of disruptive brands, 
+they decide which ads people see - when they see them - where they see them.  In order 
+to do this well they build high-performance systems for storing, processing, and 
+manipulating large data sets. Their developers are passionate about two things: understanding 
+mass media, and finding elegant solutions to engineering challenges.
 
 # Speakers
 
