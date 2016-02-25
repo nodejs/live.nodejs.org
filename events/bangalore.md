@@ -3,8 +3,10 @@
 * **Date:** March, 19th, 2016
 * **Location:** Wipro, Tower S4, 5th floor SJP 2, Auditorium 
 * **Address:** Doddakannelli, Sarjapur Road, Bengaluru, Karnataka 560035
+* Parking space is limited to 200 vehicles hence it is advised to hire cabs to attend the event.
+* All guests are requested to report to SJP2, front office to collect guest passes.
 
-<a class="button" href="https://docs.google.com/a/linuxfoundation.org/forms/d/1VuGLKcWJDi2wtfcgJvgzvarkYnedJSeaimnRIuCGQq8/viewform">Get Notified!</a>
+<a class="button" href="https://www.regonline.com/Register/Checkin.aspx?EventID=1813427">Register Now!</a>
 
 ## Sponsors
 
