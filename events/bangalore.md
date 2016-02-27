@@ -10,6 +10,8 @@
 
 ## Sponsors
 
+![http://www.wipro.com/](/static/sponsors/WNC_Logo.png "Wipro")
+
 We're still looking for sponsors. <a href="mailto:tbenzies@linuxfoundation.org?subject=Node.js%20Live%20Sponsorship">Contact us</a> if you're interested.
 
 ## NodeTogether by ![https://www.npmjs.com](/static/sponsors/npm-logo.svg "npm")
