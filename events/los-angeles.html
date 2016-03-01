@@ -94,7 +94,7 @@
 <body>
   <div class="top-container container">
     <div class="row">
-      <div class="column column-50" style="text-align:center">
+      <div class="column" style="text-align:center">
         <img class="logo" src="/static/new-node.png" alt=""/>
       </div>
       <div class="column">
@@ -140,10 +140,16 @@
     max-height:40px;
     cursor:pointer;
   }
+  @media screen and (max-width: 600px) {
+    div.side-navigation {
+      visibility: collapse !important;
+      display: none !important;
+    }
+  }
 </style>
 
 <div class="row">
-  <div class="column">
+  <div class="column column-40 side-navigation">
     <nav>
       <ul>
         <li><h3><a href="los-angeles.html">Los Angeles</a></h3></li>
@@ -158,7 +164,7 @@
       </ul>
     </nav>
   </div>
-  <div class="column column-60">
+  <div class="column">
     <h1 id="los-angeles">Los Angeles</h1>
 <p>This event is being run in partnership with <a href="http://js.la/">JS.LA</a>.</p>
 <ul>

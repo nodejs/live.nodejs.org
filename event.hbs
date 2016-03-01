@@ -32,10 +32,16 @@
     max-height:40px;
     cursor:pointer;
   }
+  @media screen and (max-width: 600px) {
+    div.side-navigation {
+      visibility: collapse !important;
+      display: none !important;
+    }
+  }
 </style>
 
 <div class="row">
-  <div class="column">
+  <div class="column column-40 side-navigation">
     <nav>
       <ul>
         <li><h3><a href="los-angeles.html">Los Angeles</a></h3></li>
@@ -50,7 +56,7 @@
       </ul>
     </nav>
   </div>
-  <div class="column column-60">
+  <div class="column">
     {{{content}}}
     <h2 id="conduct">Code of Conduct</h2>
     <p>
