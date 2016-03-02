@@ -23,6 +23,13 @@ To learn more, and/or if you are interested in applying as a student, mentor, or
 [Let us know](https://github.com/nodejs/live.nodejs.org#interested-in-speaking) 
 if you're interested in speaking :)
 
+Time | Agenda
+--- | --- 
+13:00 | Arrivals, w/ Coffee! 
+14:00 | Main Programme
+16:30 | Reception
+18:00 | Closing
+
 # Speakers
 
 #### [Mikeal Rogers](https://twitter.com/mikeal)
