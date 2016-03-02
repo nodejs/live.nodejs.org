@@ -1,11 +1,15 @@
 # Beijing
 
-* **Location** TBD
-* **Address** TBD
+* **May, 21st-22nd, 2016**
+* **Location** Microsoft Beijing West Campus Tower 1, Multi-Purpose Room
+* **Address** Microsoft Tower 1, No. 5, Danling Street, Haidian District, Beijing 100080, P.R China
+* **Subway** Line 4 & 10, Hai Dian Huang Zhuang Station
 
-<a class="button" href="https://docs.google.com/a/linuxfoundation.org/forms/d/1wmmvzhSz1kxR8IJcH_5qdAxlD41xfLoV6O_VXviizio/viewform">Get Notified!</a>
+<a class="button" href="https://www.regonline.com/Register/Checkin.aspx?EventID=1813427">Register Now!</a>
 
 ## Sponsors
+
+![http://microsoft.com](/static/sponsors/microsoftLogo2.png "Microsoft")
 
 We're still looking for sponsors. <a href="mailto:tbenzies@linuxfoundation.org?subject=Node.js%20Live%20Sponsorship">Contact us</a> if you're interested.
 

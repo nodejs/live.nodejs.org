@@ -1,11 +1,14 @@
 # Paris
 
-* **Location** TBD
-* **Address** TBD
+* **April 14th 2016**
+* **Location** IBM Client Center Paris
+* **Address** 17 avenue de l'Europe, 92270 Bois-Colombes, France.
 
-<a class="button" href="https://docs.google.com/a/linuxfoundation.org/forms/d/1nDIKImWRKjD4D7uwiUeZomM278lGkpBV9EIoHC_9bpI/viewform">Get Notified!</a>
+<a class="button" href="https://www.regonline.com/Register/Checkin.aspx?EventID=1813427">Register Now!</a>
 
 ## Sponsors
+
+![http://ibm.com](/static/sponsors/ibmLogo.png "IBM")
 
 We're still looking for sponsors. <a href="mailto:tbenzies@linuxfoundation.org?subject=Node.js%20Live%20Sponsorship">Contact us</a> if you're interested.
 
