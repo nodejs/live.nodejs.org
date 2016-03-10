@@ -22,6 +22,16 @@ To learn more, and/or if you are interested in applying as a student, mentor, or
 
 ## Agenda
 
+
+Time | Topic 
+--- | --- 
+13:00 | Arrivals 
+14:00 | Welcome Address/Main Program
+15:00 | 30 Minute Break
+16:30 | 30 Minute Break
+18:00 | Food/Beverage & Networking
+19:00 | Event Concludes
+
 [Let us know](https://github.com/nodejs/live.nodejs.org#interested-in-speaking) 
 if you're interested in speaking :)
 
