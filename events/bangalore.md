@@ -30,7 +30,7 @@ Time | Topic
 15:00 | 30 Minute Break
 16:30 | 30 Minute Break
 18:00 | Food/Beverage & Networking
-19:00 | Event Concludes
+19:30 | Event Concludes
 
 [Let us know](https://github.com/nodejs/live.nodejs.org#interested-in-speaking) 
 if you're interested in speaking :)
