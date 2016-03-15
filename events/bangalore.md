@@ -25,15 +25,16 @@ To learn more, and/or if you are interested in applying as a student, mentor, or
 
 Time | Topic 
 --- | --- 
-13:00 | Arrivals 
-14:00 | Welcome Address/Main Program
+13:00 | Arrivals  | 
+14:00 | Ashley Williams | Welcome / You don't know npm
+14:30 | Niranja Janardhana | Secure Scalable NodeJS for Enterprise
 15:00 | 30 Minute Break
+15:30 | Gireesh Punathil | Memory efficiency with Closures
+16:00 | Harminder Virk | Writing maintainable apps with Adonis Js
 16:30 | 30 Minute Break
+17:00 | Balachandra Kamat | Real time visualization of events leveraging Kafka, Storm and MEAN Stack
 18:00 | Food/Beverage & Networking
 19:30 | Event Concludes
-
-[Let us know](https://github.com/nodejs/live.nodejs.org#interested-in-speaking) 
-if you're interested in speaking :)
 
 #### [Ashley Williams](https://github.com/ashleygwilliams)
 
@@ -43,3 +44,55 @@ you better, happier, and more productive. Ashley will outline the most commonly 
 for starting a project, managing a project through development, test, and deployment, and 
 managing teams and organization project work. She’ll focus in particular on workflows that 
 will help frontend developers, npm’s biggest and fastest-growing group of users.
+
+##### [Niranjan Janardhana](https://github.com/Niranjan-J007)
+
+Kraken is a secure and scalable layer that extends nodejs by providing structure and 
+convention. It also supports private NPM for enterprise.
+
+Topics to be covered.
+* NodeJS & security
+* Npm & private hosting
+* Internationalization support
+
+#### [Gireesh Punathil](https://github.com/gireeshpunathil)
+
+Memory Leaks leading to undesired growth and exhaustion of memory are by 
+far the most common production problem reported on enterprise scale Node applications. 
+Closures, a powerful semantic feature in functional programs which are used pervasively 
+in Node.js/Javascript programs to support their asynchronous and event driven programming 
+model, are a prominent source of unanticipated memory leaks.
+
+In this presentation, I will explain three of the most common use cases where 
+Closures are used in Node. For each of the use cases, I will explain a) sample code, b) 
+the life-span of the Closure context and which variables the closure keeps live, iii) 
+what memory will be retained during the life-span of the Closure. The intention is to 
+help the audience better understand the execution environment of Closures, their 
+implications to memory footprint, and help them develop efficient code.
+
+#### [Harminder Virk](https://github.com/thetutlage)
+
+Adonis Js is a different breed of framework in NodeJs. It follows some great concepts of Dependency Injection and leverages the full power of ES6 by using Proxies, ES6 generators etc.
+
+Topics to be covered.
+
+Why AdonisJs?
+New way to inject dependencies and writing testable code
+What the heck are ES6 proxies?
+
+#### Balachandra Kamat
+
+In web-app design, node.js plays a crucial role in orchestrating user requests between 
+different backend systems. Owing to its architecture, low memory footprint, and active 
+community it is found to be a great fit for applications that demand high-performance 
+and scalability, real-time visualization of data and modernizing legacy systems.
+
+Across industries we are seeing many usecases for leveraging node along with 
+technologies like AngularJs, MongoDB, Kafka & Storm. Some of the key scenarios 
+that we will call out in this presentation
+
+1. Modernization of legacy mainframe applications using MEAN stack
+2. Leveraging NodeJs & AngularJs to improve the scalability & performance of 
+internet scale applications Real time visualization of events leveraging Kafka, 
+Storm and MEAN Stack
+
