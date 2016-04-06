@@ -1,6 +1,6 @@
 # Bangalore
 
-* **Date:** March, 19th, 2016
+* **Date:** March, 19, 2016
 * **Location:** Wipro, Tower S4, 5th floor SJP 2, Auditorium
 * **Address:** Doddakannelli, Sarjapur Road, Bengaluru, Karnataka 560035
 * Parking space is limited to 200 vehicles hence it is advised to hire cabs to attend the event.
