@@ -11,7 +11,7 @@
 Hosted by  
 ![http://ibm.com](/static/sponsors/ibmLogo.png "IBM")  
    
-Event recording provided by [OpBeat](https://opbeat.com/)
+Event recording provided by [Opbeat](https://opbeat.com/)
 
 ## NodeTogether by ![https://www.npmjs.com](/static/sponsors/npm-logo.svg "npm")
 
