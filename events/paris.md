@@ -10,8 +10,9 @@
 
 Hosted by  
 ![http://ibm.com](/static/sponsors/ibmLogo.png "IBM")  
-   
-Event recording provided by [Opbeat](https://opbeat.com/)
+
+Event recording sponsored by  
+![Opbeat](/static/sponsors/opbeat-logo.png "OpBeat")
 
 ## NodeTogether by ![https://www.npmjs.com](/static/sponsors/npm-logo.svg "npm")
 
@@ -28,16 +29,15 @@ Access to Fablab is located on level -1. At the entrance of the digital crossroa
 Time | Speaker | Topic
 --- | ---
 13:00 |   | Arrivals, with coffee!
-13:55 |   | Welcome
-14:00 |   | Lightning talk intro
-14:05 | [Ashley Williams](https://github.com/ashleygwilliams) | Welcome / You Don't Know NPM
-14:35 | [Thomas Watson](https://github.com/watson) | Instrumenting Node.js in Production
-15:05 |   | 25 Minute Break
-15:30 | [Gareth Ellis](https://github.com/gareth-ellis) | Node.js Community Benchmarking Efforts
-16:00 | [Igor Soarez](https://github.com/Soarez) | Anti-patterns in Node.js
-16:30 |   | 30 Minute Break
-17:00 | [Mikeal Rogers](https://twitter.com/mikeal) | Node.JS Everywhere
-18:00 |   | Reception
+14:30 |   | Welcome
+14:35 | Andy Watson | Lightning talk intro
+14:40 | [Ashley Williams](https://github.com/ashleygwilliams) | Welcome / You Don't Know NPM
+15:10 | [Thomas Watson](https://github.com/watson) | Instrumenting Node.js in Production
+15:40 |   | 30 Minute Break
+16:10 | [Gareth Ellis](https://github.com/gareth-ellis) | Node.js Community Benchmarking Efforts
+16:40 | [Igor Soarez](https://github.com/Soarez) | Anti-patterns in Node.js
+17:10 | [Mikeal Rogers](https://twitter.com/mikeal) | Node.JS Everywhere
+17:30 |   | Reception
 19:30 |   | Event Concludes
 
 # Speakers
