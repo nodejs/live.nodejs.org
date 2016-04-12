@@ -16,6 +16,8 @@ Event recording sponsored by
 
 ## NodeTogether by ![https://www.npmjs.com](/static/sponsors/npm-logo.svg "npm")
 
+**April 13, 2016, 11:00-18:00**
+
 NodeTogether is an educational initiative to improve the diversity of the Node community by bringing people of underrepresented groups together to learn Node.js.
 
 To learn more, and/or if you are interested in applying as a student, mentor, or sponsor, please visit [http://www.nodetogether.org/](http://www.nodetogether.org/).  
