@@ -1,7 +1,7 @@
 "use strict"
 
 // Configuration languages, need to create a folder first
-const languages = ['zh-CN'];
+const languages = ['zh-CN']
 
 const handlebars = require('handlebars')
 const marked = require('marked')
@@ -10,15 +10,16 @@ const path = require('path')
 
 const isMarkdown = /\.md/i
 
-const defaultBaseTemplate = handlebars.compile(fs.readFileSync(path.resolve(__dirname, 'base.hbs'), 'utf8'))
-const defaultEventTemplate = handlebars.compile(fs.readFileSync(path.resolve(__dirname, 'event.hbs'), 'utf8'))
+const baseTemplate = handlebars.compile(fs.readFileSync(path.resolve(__dirname, 'base.hbs'), 'utf8'))
+const eventTemplate = handlebars.compile(fs.readFileSync(path.resolve(__dirname, 'event.hbs'), 'utf8'))
+
 const defaultTopContent = marked(fs.readFileSync(path.resolve(__dirname, 'top.md'), 'utf8'))
 const defaultIndexContent = marked(fs.readFileSync(path.resolve(__dirname, 'index.md'), 'utf8'))
 const defaultEventsFiles = fs.readdirSync(path.join(__dirname, 'events')).filter(isMarkdown.test.bind(isMarkdown))
 
 // Build English site
 function buildDefault() {
-  fs.writeFileSync(path.resolve(__dirname, 'index.html'), defaultBaseTemplate({
+  fs.writeFileSync(path.resolve(__dirname, 'index.html'), baseTemplate({
     content: defaultIndexContent,
     top: defaultTopContent,
     lang: 'en'
@@ -26,8 +27,8 @@ function buildDefault() {
 
   defaultEventsFiles.forEach(function (file) {
     const filePath = path.resolve(__dirname, 'events', file)
-    const eventContent = defaultEventTemplate({content: marked(fs.readFileSync(filePath, 'utf8'))})
-    fs.writeFileSync(filePath.replace('.md', '.html'), defaultBaseTemplate({
+    const eventContent = eventTemplate({content: marked(fs.readFileSync(filePath, 'utf8'))})
+    fs.writeFileSync(filePath.replace('.md', '.html'), baseTemplate({
       content: eventContent,
       top: defaultTopContent,
       lang: 'en'
@@ -49,18 +50,6 @@ function buildLocalization(language) {
   if (lang.length === 0) return
   const langDirPath = path.resolve(__dirname, language)
   if (!fs.existsSync(langDirPath)) return
-
-  let baseTemplate = defaultBaseTemplate;
-  const baseTemplatePath = path.resolve(langDirPath, 'base.hbs')
-  if (fs.existsSync(baseTemplatePath)) {
-    baseTemplate = handlebars.compile(fs.readFileSync(baseTemplatePath, 'utf8'))
-  }
-
-  let eventTemplate = defaultEventTemplate;
-  const eventTemplatePath = path.resolve(langDirPath, 'event.hbs')
-  if (fs.existsSync(eventTemplatePath)) {
-    eventTemplate = handlebars.compile(fs.readFileSync(eventTemplatePath, 'utf8'))
-  }
 
   let indexContent = defaultIndexContent;
   const indexFilePath = path.resolve(langDirPath, 'index.md')
