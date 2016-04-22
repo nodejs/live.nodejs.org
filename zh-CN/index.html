@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="zh-CN">
 <head>
   <meta charset="utf-8">
   <title>Node.js</title>
@@ -109,8 +109,8 @@
       </div>
       <div class="column">
         <p><h2>Node.js Live</h2></p>
-<p>The Node.js Foundation is kicking off a series of global events bringing together local Node.js developers around the world.</p>
-<p>Each event is different and tailored to the local community, varying in length and in some cases in partnership with local Node.js groups and users.</p>
+<p>Node.js Foundation 在全球各地聚集 Node.js 开发者，举办了一系列的会议。</p>
+<p>每个会议都各具特色。会议时长，合作伙伴都取决于当地的 Node.js 社区或开发者，可以说是为当地社区量身定制的。</p>
 
       </div>
     </div>
@@ -121,100 +121,50 @@
   </div>
 
   <div class="events-container">
-    <style>
-  nav ul {
-    list-style-type:none;
-  }
-  li h3 {
-    color: black;
-    font-family: "Open Sans Condensed",sans-serif;
-    text-transform: uppercase;
-    font-weight: 400;
-    font-size: 50px;
-    line-height: 50px;
-    margin-top: 4px;
-    margin-bottom: 4px;
-  }
-  li h3 a, li h3 a:visited{
-    text-decoration: underline;
-    color: black;
-  }
-  div.events-container {
-    background-color: #F2F2F2;
-    background-image: none;
-  }
-  div.events-container div.row p img {
-    max-width:300px;
-    max-height:80px;
-    cursor:pointer;
-  }
-  /*npm logo*/
-  div.events-container h2 img {
-    position: relative;
-    bottom: -10px;
-    max-height:40px;
-    cursor:pointer;
-  }
-  @media screen and (max-width: 600px) {
-    div.side-navigation {
-      visibility: collapse !important;
-      display: none !important;
-    }
-  }
-</style>
-
-<div class="row">
-  <div class="column column-40 side-navigation">
-    <nav>
-      <ul>
-        <li><h3><a href="los-angeles.html">Los Angeles</a></h3></li>
-        <li><h3><a href="bangalore.html">Bangalore</a></h3></li>
-        <li><h3><a href="paris.html">Paris</a></h3></li>
-        <li><h3><a href="beijing.html">Beijing</a></h3></li>
-        <li><h3><a href="chicago.html">Chicago</a></h3></li>
-        <li><h3><a href="london.html">London</a></h3></li>
-        <li><h3><a href="boston.html">Boston</a></h3></li>
-        <li><h3><a href="washington.html">Wash. DC</a></h3></li>
-        <li><h3><a href="seoul.html">Seoul</a></h3></li>
-      </ul>
-    </nav>
+      <div class="row">
+    <div class="live-event column">
+      <h3><a href="events/los-angeles.html">Los Angeles</a></h3>
+      <p>February 25, 2016</p>
+    </div>
+    <div class="live-event column">
+      <h3><a href="events/bangalore.html">Bangalore</a></h3>
+      <p>March 19, 2016</p>
+    </div>
+    <div class="live-event column">
+      <h3><a href="events/paris.html">Paris</a></h3>
+      <p>April 14, 2016</p>
+    </div>
   </div>
-  <div class="column">
-    <h1 id="boston">Boston</h1>
-<ul>
-<li><strong>Location</strong> TBD</li>
-<li><strong>Address</strong> TBD</li>
-</ul>
-<p><a class="button" href="https://docs.google.com/a/linuxfoundation.org/forms/d/1scUV7sWixtEc3pG595Cv_-84xPxYeyJtjgi_pfFoWSg/viewform">Get Notified!</a></p>
-<h2 id="sponsors">Sponsors</h2>
-<p><img src="/static/sponsors/ibmLogo.png" alt="http://ibm.com" title="IBM"></p>
-<p>We&#39;re still looking for sponsors. <a href="mailto:tbenzies@linuxfoundation.org?subject=Node.js%20Live%20Sponsorship">Contact us</a> if you&#39;re interested.</p>
-<h2 id="nodetogether-by-https-www-npmjs-com-static-sponsors-npm-logo-svg-npm-">NodeTogether by <img src="/static/sponsors/npm-logo.svg" alt="https://www.npmjs.com" title="npm"></h2>
-<p>NodeTogether is an educational initiative to improve the diversity of the Node community by bringing people of underrepresented groups together to learn Node.js.</p>
-<p>To learn more, and/or if you are interested in applying as a student, mentor, or sponsor, please visit <a href="http://www.nodetogether.org/">http://www.nodetogether.org/</a>.</p>
-<h2 id="agenda">Agenda</h2>
-<p><a href="https://github.com/nodejs/live.nodejs.org#interested-in-speaking">Let us know</a> 
-if you&#39;re interested in speaking :)</p>
 
-    <h2 id="conduct">Code of Conduct</h2>
-    <p>
-      All attendees, speakers, staff and sponsors are expected to follow the <a href="http://confcodeofconduct.com/">Code of Conduct.</a>
-    <p>
+  <div class="row">
+    <div class="live-event column">
+      <h3><a href="events/beijing.html">Beijing</a></h3>
+      <p>May 21-22, 2016</p>
+    </div>
+    <div class="live-event column">
+      <h3><a href="events/chicago.html">Chicago</a></h3>
+      <p>June 2016</p>
+    </div>
+    <div class="live-event column">
+      <h3><a href="events/london.html">London</a></h3>
+      <p>July 2016</p>
+    </div>
   </div>
-</div>
 
-<script>
-  var elementList = document.querySelectorAll('div.events-container div.row p img')
-  for (var i=0;i<elementList.length;i++) {
-    ;(function () {
-      var elem = elementList[i]
-      elem.addEventListener('click', function () {
-        window.location = elem.alt
-      })
-    })()
-  }
-</script>
-
+  <div class="row">
+    <div class="live-event column">
+      <h3><a href="events/boston.html">Boston</a></h3>
+      <p>August, 2016</p>
+    </div>
+    <div class="live-event column">
+      <h3><a href="events/washington.html">Washington DC metro</a></h3>
+      <p>October 2016</p>
+    </div>
+    <div class="live-event column">
+      <h3><a href="events/seoul.html">Seoul</a></h3>
+      <p>November 2016</p>
+    </div>
+  </div>
 
   </div>
 
