@@ -24,7 +24,7 @@ For example, please visit [Node.js Live @ Beijing](http://live.nodejs.org/zh-CN/
 
 Follow these steps to add another language:
 
-1. Create a folder which named your language, such as zh-CN, ja, de. See http://www.metamodpro.com/browser-language-codes
+1. Create a folder which names your language, such as `zh-CN`, `ja`, `de`, etc. See http://www.metamodpro.com/browser-language-codes
 2. Add your language to the beginning of build script `build.js`
 3. Add your language to `base.hbs`, search `ul` which `id` is `"languages"`
 

@@ -39,8 +39,8 @@ function buildDefault() {
 /**
  * Build a specific language
  *
- * @param {String} A language identification code, such as zh-CN, ja, de
- *        see http://www.metamodpro.com/browser-language-codes
+ * @param {String} A language identification code, such as zh-CN, ja, de, etc.
+ *        See http://www.metamodpro.com/browser-language-codes
  * @returns {undefined} Write files while executing, no returns.
  */
 function buildLocalization(language) {
