@@ -72,7 +72,7 @@
     div.events-container {
       margin: 0;
       padding: 30px 10%;
-      background: url(static/background.jpg);
+      background: url(/static/background.jpg);
     }
     div.footer-container {
       background-color:#b3b3b3;
@@ -89,6 +89,16 @@
       max-width:100%;
       padding: 50px 50px 50px 50px;
     }
+    .languages {
+      display: block;
+      position: absolute;
+      top: 20px;
+      right: 20px;
+      list-style: none;
+    }
+    .languages li {
+      display: inline-block;
+    }
   </style>
 </head>
 <body>
@@ -98,11 +108,16 @@
         <img class="logo" src="/static/new-node.png" alt=""/>
       </div>
       <div class="column">
-        <h2>Node.js Live</h2>
-        <p>The Node.js Foundation is kicking off a series of global events bringing together local Node.js developers around the world.</p>
-        <p>Each event is different and tailored to the local community, varying in length and in some cases in partnership with local Node.js groups and users.</p>
+        <p><h2>Node.js Live</h2></p>
+<p>The Node.js Foundation is kicking off a series of global events bringing together local Node.js developers around the world.</p>
+<p>Each event is different and tailored to the local community, varying in length and in some cases in partnership with local Node.js groups and users.</p>
+
       </div>
     </div>
+    <ul id="languages" class="languages">
+      <li><a data-lang="en" href="javascript:void(0);">English</a> |</li>
+      <li><a data-lang="zh-CN" href="javascript:void(0);">简体中文</a></li>
+    </ul>
   </div>
 
   <div class="events-container">
@@ -318,5 +333,8 @@ Storm and MEAN Stack</li>
       <p>© 2016 Node.js Foundation. All Rights Reserved. Node.js is a trademark of Joyent, Inc. and is used with its permission. Please review the <a href="https://nodejs.org/static/documents/trademark-policy.pdf">Trademark Guidelines of the Node.js Foundation</a>.</p>
     </div>
   </div>
+
+  <script src="/static/languages.js"></script>
+
 </body>
 </html>
