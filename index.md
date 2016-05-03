@@ -16,7 +16,7 @@
   <div class="row">
     <div class="live-event column">
       <h3><a href="events/beijing.html">Beijing</a></h3>
-      <p>May 21-22, 2016</p>
+      <p>May 21, 2016</p>
     </div>
     <div class="live-event column">
       <h3><a href="events/chicago.html">Chicago</a></h3>
