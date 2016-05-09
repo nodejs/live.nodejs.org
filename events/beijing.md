@@ -17,9 +17,15 @@ We're still looking for sponsors. <a href="mailto:tbenzies@linuxfoundation.org?s
 
 Time | Speaker | Topic
 --- | ---
+10:30 |   | Registration
+10:55 | [Mikeal Rogers](https://twitter.com/mikeal) | Welcome and intro
+      |   | Lightning talks!
+11:00 |   |
+11:15 |   |
+11:30 |   |
+11:45 |   |
 12:00 |   | Lunch and make new friends
-13:30 |   | Welcome
-13:35 | [Mikeal Rogers](https://twitter.com/mikeal) | Node.JS Everywhere
+13:30 | [Mikeal Rogers](https://twitter.com/mikeal) | Node.JS Everywhere
 14:10 | [Shiya Luo](https://twitter.com/ShiyaLuo) | API Publishing with Node.js
 14:40 |   | 20 Minute Break
 15:00 | [Jose Miguel Parrella](https://twitter.com/bureado) | End to end Node.js app development in the cloud: Azure use cases
