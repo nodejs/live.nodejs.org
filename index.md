@@ -20,7 +20,7 @@
     </div>
     <div class="live-event column">
       <h3><a href="events/chicago.html">Chicago</a></h3>
-      <p>June 2016</p>
+      <p>June 22, 2016</p>
     </div>
     <div class="live-event column">
       <h3><a href="events/london.html">London</a></h3>
