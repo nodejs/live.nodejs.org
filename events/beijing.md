@@ -20,12 +20,12 @@ Time | Speaker | Topic
 10:30 |   | Registration
 10:55 | [Mikeal Rogers](https://twitter.com/mikeal) | Welcome and intro
       |   | Lightning talks!
-11:00 |   |
+11:00 | [Chen Zhang](https://github.com/zcxp) | Build Desktop Apps with Web Technologies
 11:15 |   |
 11:30 |   |
 11:45 |   |
 12:00 |   | Lunch and make new friends
-13:30 | [Mikeal Rogers](https://twitter.com/mikeal) | Node.JS Everywhere
+13:30 | [Mikeal Rogers](https://twitter.com/mikeal) | Node.js Everywhere
 14:10 | [Shiya Luo](https://twitter.com/ShiyaLuo) | API Publishing with Node.js
 14:40 |   | 20 Minute Break
 15:00 | [Jose Miguel Parrella](https://twitter.com/bureado) | End to end Node.js app development in the cloud: Azure use cases
@@ -34,6 +34,12 @@ Time | Speaker | Topic
 16:50 |   | Event Concludes
 
 # Speakers
+
+#### [Chen Zhang](https://github.com/zcxp)
+
+Chen Zhang is a skilled web developer with over 9 years of experience developing a Game IDE using web technologies and Node for now. Microsoft MVP.
+
+Chen will share how to develop desktop apps with HTML & Node. It's so popular to using Node on the server side in China, but less people know we can use it to develop desktop apps. Introducing NW.js and GitHub Electron, the most popular projects to build desktop apps with Node.js. He will then give some demos and talk about common performance issues.
 
 #### [Mikeal Rogers](https://twitter.com/mikeal)
 
