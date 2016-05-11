@@ -1,6 +1,7 @@
 # Beijing
 
 * **May 21, 2016**
+![Microsoft-Beijing](/static/beijing-map.jpg "Beijing location")
 * **Location** Microsoft Beijing West Campus Tower 1, Multi-Purpose Room
 * **Address** Microsoft Tower 1, No. 5, Danling Street, Haidian District, Beijing 100080, P.R China
 * **Subway** Line 4 & 10, Hai Dian Huang Zhuang Station
@@ -9,19 +10,22 @@
 
 ## Sponsors
 
+Hosted by  
 ![http://microsoft.com](/static/sponsors/microsoftLogo2.png "Microsoft")
 
-We're still looking for sponsors. <a href="mailto:tbenzies@linuxfoundation.org?subject=Node.js%20Live%20Sponsorship">Contact us</a> if you're interested.
+Video recording provided by  
+![http://udn.yyuap.com/](/static/sponsors/udn-logo.png "UDN")
+
 
 ## Agenda
 
 Time | Speaker | Topic
 --- | ---
 10:30 |   | Registration
-10:55 | [Mikeal Rogers](https://twitter.com/mikeal) | Welcome and intro
+10:55 | [Lang Sheng Yun](https://www.linkedin.com/in/layun) | Welcome and intro
+11:00 | [Mikeal Rogers](https://twitter.com/mikeal) | Opening
       |   | Lightning talks!
-11:00 | [Chen Zhang](https://github.com/zcxp) | Build Desktop Apps with Web Technologies
-11:15 |   |
+11:15 | [Chen Zhang](https://github.com/zcxp) | Build Desktop Apps with Web Technologies
 11:30 |   |
 11:45 |   |
 12:00 |   | Lunch and make new friends
@@ -34,6 +38,14 @@ Time | Speaker | Topic
 16:50 |   | Event Concludes
 
 # Speakers
+
+#### [Lang Sheng Yun](https://www.linkedin.com/in/layun)
+*Managing Director, Microsoft Open Technologies China Center*
+
+Lang Sheng Yun is charged with building out the team in the China region, and overseeing the company’s broad set of engineering, standards and community engagement initiatives to advance interoperability, open standards and open source development throughout the region.
+
+Lang has been on the forefront of major shifts across China’s technological landscape, and an active leader in the industry for decades. He brings deep engineering expertise in agile software development, digital design and cloud/mobile computing to this role, along with a successful track record as an inspirational and effective manager of multi-function engineering teams spanning user experience, development, quality assurance and operations.
+
 
 #### [Chen Zhang](https://github.com/zcxp)
 
