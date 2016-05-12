@@ -22,8 +22,8 @@ Video recording provided by
 Time | Speaker | Topic
 --- | ---
 10:30 |   | Registration
-10:55 | [Lang Sheng Yun](https://www.linkedin.com/in/layun) | Welcome and intro
-11:00 | [Mikeal Rogers](https://twitter.com/mikeal) | Opening
+10:55 | [Mikeal Rogers](https://twitter.com/mikeal) | Opening
+11:00 | [Lang Sheng Yun](https://www.linkedin.com/in/layun) | Welcome and intro
       |   | Lightning talks!
 11:15 | [Chen Zhang](https://github.com/zcxp) | Build Desktop Apps with Web Technologies
 11:30 |   |
