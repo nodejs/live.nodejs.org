@@ -6,7 +6,7 @@
 * **Address** Microsoft Tower 1, No. 5, Danling Street, Haidian District, Beijing 100080, P.R China
 * **Subway** Line 4 & 10, Hai Dian Huang Zhuang Station
 
-<a class="button" href="https://www.regonline.com/Register/Checkin.aspx?EventID=1813427">Register Now!</a>
+<a class="button" href="">Registration closed</a>
 
 ## Sponsors
 
@@ -24,10 +24,10 @@ Time | Speaker | Topic
 10:30 |   | Registration
 10:55 | [Mikeal Rogers](https://twitter.com/mikeal) | Opening
 11:00 | [Lang Sheng Yun](https://www.linkedin.com/in/layun) | Welcome and intro
-      |   | Lightning talks!
+      | | Lightning talks!
 11:15 | [Chen Zhang](https://github.com/zcxp) | Build Desktop Apps with Web Technologies
-11:30 |   |
-11:45 |   |
+11:30 | [Xeodou Li](https://github.com/xeodou) | A Secure and Scalable SSO with Node.js in China
+11:45 | [Yuchen Pan](https://github.com/rachel4869) | Node.js Full Stack Development for Mobile Ends
 12:00 |   | Lunch and make new friends
 13:30 | [Mikeal Rogers](https://twitter.com/mikeal) | Node.js Everywhere
 14:10 | [Shiya Luo](https://twitter.com/ShiyaLuo) | API Publishing with Node.js
@@ -52,6 +52,19 @@ Lang has been on the forefront of major shifts across China’s technological la
 Chen Zhang is a skilled web developer with over 9 years of experience developing a Game IDE using web technologies and Node for now. Microsoft MVP.
 
 Chen will share how to develop desktop apps with HTML & Node. It's so popular to using Node on the server side in China, but less people know we can use it to develop desktop apps. Introducing NW.js and GitHub Electron, the most popular projects to build desktop apps with Node.js. He will then give some demos and talk about common performance issues.
+
+#### [Xeodou Li](https://github.com/xeodou)
+
+Working with a Fortune 500 F&B company, Xeodou's team has been in charge of taking over a complex architecture, including many moving pieces that support Web, mobile and backend applications used by millions of consumer and stakeholder users in China.
+
+One of the crucial pieces of their service oriented architecture was authentication; Xeodou needed to build a fast, secure and scalable system that allowed not only to authenticate users across all apps (Android, iOS and Web) and secure all requests to backend systems.
+He'll share the journey and insights into how his team learned to build and scale a secure SSO solution.
+
+#### [Yuchen Pan](https://github.com/rachel4869)
+
+The JavaScript-based Full Stack development mode has been getting increasingly popular. Development of mobile apps is in high demand, so a Node.js full stack development scheme covering mobile ends is of great importance.
+
+In this talk, Yuchen will share how to perform cloud-end integrated Node.js product development, encapsulate different types of data sources into a standard data model, and enable an encapsulated data model to automatically generate APIs with different formats through model definition and configuration.
 
 #### [Mikeal Rogers](https://twitter.com/mikeal)
 
