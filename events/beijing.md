@@ -27,7 +27,7 @@ Time | Speaker | Topic
       | | Lightning talks!
 11:15 | [Chen Zhang](https://github.com/zcxp) | Build Desktop Apps with Web Technologies
 11:30 | [Xeodou Li](https://github.com/xeodou) | A Secure and Scalable SSO with Node.js in China
-11:45 | [Yuchen Pan](https://github.com/rachel4869) | Node.js Full Stack Development for Mobile Ends
+11:45 | [Da Zou](http://apicloud.com/) | Node.js Full Stack Development for Mobile Ends
 12:00 |   | Lunch and make new friends
 13:30 | [Mikeal Rogers](https://twitter.com/mikeal) | Node.js Everywhere
 14:10 | [Shiya Luo](https://twitter.com/ShiyaLuo) | API Publishing with Node.js
@@ -60,11 +60,12 @@ Working with a Fortune 500 F&B company, Xeodou's team has been in charge of taki
 One of the crucial pieces of their service oriented architecture was authentication; Xeodou needed to build a fast, secure and scalable system that allowed not only to authenticate users across all apps (Android, iOS and Web) and secure all requests to backend systems.
 He'll share the journey and insights into how his team learned to build and scale a secure SSO solution.
 
-#### [Yuchen Pan](https://github.com/rachel4869)
+#### [Da Zou](http://apicloud.com/)
+*CTO, APICloud*
 
 The JavaScript-based Full Stack development mode has been getting increasingly popular. Development of mobile apps is in high demand, so a Node.js full stack development scheme covering mobile ends is of great importance.
 
-In this talk, Yuchen will share how to perform cloud-end integrated Node.js product development, encapsulate different types of data sources into a standard data model, and enable an encapsulated data model to automatically generate APIs with different formats through model definition and configuration.
+In this talk, Da Zou will share how to perform cloud-end integrated Node.js product development, encapsulate different types of data sources into a standard data model, and enable an encapsulated data model to automatically generate APIs with different formats through model definition and configuration.
 
 #### [Mikeal Rogers](https://twitter.com/mikeal)
 
