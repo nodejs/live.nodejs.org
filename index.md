@@ -24,14 +24,14 @@
     </div>
     <div class="live-event column">
       <h3><a href="events/london.html">London</a></h3>
-      <p>July 2016</p>
+      <p>July 21, 2016</p>
     </div>
   </div>
 
   <div class="row">
     <div class="live-event column">
       <h3><a href="events/boston.html">Boston</a></h3>
-      <p>August, 2016</p>
+      <p>August 24, 2016</p>
     </div>
     <div class="live-event column">
       <h3><a href="events/washington.html">Washington DC metro</a></h3>
