@@ -19,10 +19,9 @@ To learn more, and/or if you are interested in applying as a student, mentor, or
 
 ## Agenda
 
-<<<<<<< HEAD
 [Let us know](https://github.com/nodejs/live.nodejs.org#interested-in-speaking)
 if you're interested in speaking :)
-=======
+
 Time | Speaker | Topic
 --- | --- | ---
 5pm | Reception | Weclome everyone!
@@ -53,4 +52,3 @@ you better, happier, and more productive. Ashley will outline the most commonly 
 for starting a project, managing a project through development, test, and deployment, and
 managing teams and organization project work. She’ll focus in particular on workflows that
 will help frontend developers, npm’s biggest and fastest-growing group of users.
->>>>>>> 14997effff74fe51afd3231561778fd3c86562c2
