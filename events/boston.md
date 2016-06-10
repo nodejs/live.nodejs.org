@@ -3,7 +3,7 @@
 * **Location** [District Hall](www.districthallboston.org)
 * **Address** 75 Northern Avenue Boston, MA 02210
 
-<a class="button" href="https://docs.google.com/a/linuxfoundation.org/forms/d/1scUV7sWixtEc3pG595Cv_-84xPxYeyJtjgi_pfFoWSg/viewform">Register Now!</a>
+<a class="button" href="https://www.regonline.com/Register/Checkin.aspx?EventID=1813427">Register Now!</a>
 
 ## Sponsors
 
@@ -18,6 +18,9 @@ NodeTogether is an educational initiative to improve the diversity of the Node c
 To learn more, and/or if you are interested in applying as a student, mentor, or sponsor, please visit [http://www.nodetogether.org/](http://www.nodetogether.org/).
 
 ## Agenda
+
+[Let us know](https://github.com/nodejs/live.nodejs.org#interested-in-speaking)
+if you're interested in speaking :)
 
 Time | Speaker | Topic
 --- | --- | ---
