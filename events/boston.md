@@ -3,7 +3,7 @@
 * **Location** TBD
 * **Address** TBD
 
-<a class="button" href="https://docs.google.com/a/linuxfoundation.org/forms/d/1scUV7sWixtEc3pG595Cv_-84xPxYeyJtjgi_pfFoWSg/viewform">Get Notified!</a>
+<a class="button" href="https://www.regonline.com/Register/Checkin.aspx?EventID=1813427">Get Notified!</a>
 
 ## Sponsors
 
@@ -19,5 +19,5 @@ To learn more, and/or if you are interested in applying as a student, mentor, or
 
 ## Agenda
 
-[Let us know](https://github.com/nodejs/live.nodejs.org#interested-in-speaking) 
+[Let us know](https://github.com/nodejs/live.nodejs.org#interested-in-speaking)
 if you're interested in speaking :)

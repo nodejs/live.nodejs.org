@@ -5,7 +5,7 @@
 * **Address** 10 South Place, London, EC2M 7EB, GB
 
 
-<a class="button" href="https://docs.google.com/a/linuxfoundation.org/forms/d/1ETIVWt3BVDo4MCqMcHQ6xcjOU1ZWa6_wYGGzrdw16I0/viewform">Register Now!</a>
+<a class="button" href="https://www.regonline.com/Register/Checkin.aspx?EventID=1813427">Register Now!</a>
 
 ## Sponsors
 
@@ -13,7 +13,7 @@ Hosted by
 ![YLD](/static/sponsors/yld-logo.png "YLD")  
 
 Event recording sponsored by  
-![Opbeat](/static/sponsors/opbeat-logo.png "OpBeat")
+![https://opbeat.com/](/static/sponsors/opbeat-logo.png "OpBeat")
 
 ## NodeTogether by ![https://www.npmjs.com](/static/sponsors/npm-logo.svg "npm")
 
