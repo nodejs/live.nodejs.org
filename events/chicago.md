@@ -26,7 +26,7 @@ Time | Speaker | Topic
 7pm | [Mikeal Rogers](https://twitter.com/mikeal) | Node.js Everywhere
 7:15pm | [Ashley Williams](https://github.com/ashleygwilliams) | Welcome / You Don't Know NPM
 7:35pm | [Peter Piekarczyk](https://twitter.com/peterpme) | The Future of High Performance Node - Tips, Tricks & Techniques
-7:55pm |  | TBD
+7:55pm | [Luc Renambot](https://github.com/renambot-uic)| SAGE2: Local and distributed collaboration on large displays
 8:15pm | [Dan Shaw](https://github.com/dshaw) | The Node.js Ecosystem in Perspective
 
 [Let us know](https://github.com/nodejs/live.nodejs.org#interested-in-speaking)
@@ -62,3 +62,10 @@ Dan Shaw (dshaw) is Co-Founder and CTO of NodeSource, the Enterprise Node Compan
 Node.js was created 7 years ago by Ryan Dahl to increase the performance of web application development. Many novel choices were made along the way. Node.js ships with "batteries included". Node.js was built with a very liberal license. Node.js has no standard library and encourages userland experimentation. Node.js chose to standardize on a single package management solution with npm. Node.js is fully cross-platform. Node.js applications run everywhere (take that Java!). All of this comes together to create an extraordinary ecosystem.
 
 Dan Shaw will explore the implications of these decisions and how they have impacted the Node.js Ecosystem. 7 years on, Node.js is everywhere with a massive user base and the largest package registry ever. And yet, there's still so much to do.
+
+#### [Luc Renambot](https://github.com/renambot-uic)
+
+Luc Renambot is a Research Associate Professor of Computer Science at the University of Illinois at Chicago. His research at the Electronic Visualization Laboratory focuses on interaction and collaboration using advanced visualization displays and high-speed networking.
+
+SAGE2 is a Node.js and browser-based environment that creates a seamless ultra-high resolution desktop across display wall (one to many displays). Users can wirelessly connect to the wall to interact with the system, transfer documents, manipulate applications and share their screen. Data visualization applications can be created quickly using 3rd party library such as D3.js, Snap, Vega, WebGL, and be integrated into the SAGE2 API.
+We will present our experience using Nodejs for this academic research environment.
