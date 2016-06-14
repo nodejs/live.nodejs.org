@@ -10,7 +10,7 @@
 ## Sponsors
 
 Hosted by  
-![YLD](/static/sponsors/yld-logo.png "YLD")  
+![https://www.yld.io/](/static/sponsors/yld-logo.png "YLD")
 
 Event recording sponsored by  
 ![https://opbeat.com/](/static/sponsors/opbeat-logo.png "OpBeat")
