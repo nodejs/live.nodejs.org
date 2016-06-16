@@ -51,7 +51,7 @@ for starting a project, managing a project through development, test, and deploy
 managing teams and organization project work. She’ll focus in particular on workflows that
 will help frontend developers, npm’s biggest and fastest-growing group of users.
 
-#### [Peter Piekarczyk](https://github.com/dshaw)
+#### [Peter Piekarczyk](https://twitter.com/peterpme)
 
 Peter Piekarczyk is a Chicago-based Javascript consultant helping both individuals and companies build incredibly fast, maintainable applications.
 
