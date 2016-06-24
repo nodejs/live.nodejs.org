@@ -1,5 +1,6 @@
 # Boston
 
+**August 24, 2016**
 * **Location** [District Hall](www.districthallboston.org)
 * **Address** 75 Northern Avenue Boston, MA 02210
 
