@@ -25,12 +25,17 @@ To learn more, and/or if you are interested in applying as a student, mentor, or
 
 Time | Speaker | Topic
 --- | --- | ---
-5pm | Reception | Weclome everyone!
-6pm | [Mikeal Rogers](https://twitter.com/mikeal) | Node.js Everywhere
-6:15pm | [Ashley Williams](https://github.com/ashleygwilliams) | Welcome / You Don't Know NPM
-6:35pm |  | Your talk here!
-7:00pm |  | TBD
-8:15pm |  | Your talk here!
+5pm | Reception | Welcome everyone!
+6pm | | YLD welcome
+6:05pm | [Mikeal Rogers](https://twitter.com/mikeal) | Node.js Everywhere
+6:20pm | [Ashley Williams](https://github.com/ashleygwilliams) | Welcome / You Don't Know npm
+6:40pm | [Josh Emerson](https://github.com/joshje) | Writing Secure Node.js Code
+7:00pm | [Mete Atamel](https://github.com/meteatamel) | Node.js in the Cloud
+7:20pm | | Break and stretch
+7:30pm | [Gareth Ellis](https://github.com/gareth-ellis) | Node.js Community Benchmarking Efforts
+7:50pm | [Luca Marchesini](https://github.com/xbill82) | Mastering integration tests in the Node.js world
+8:10pm | [Alexander Gugel](https://github.com/alexanderGugel) | Rethinking Package Management in Node.js
+8:30pm | | Thanks and time to make more Node.js friends
 
 [Let us know](https://github.com/nodejs/live.nodejs.org#interested-in-speaking)
 if you're interested in speaking :)
@@ -53,3 +58,18 @@ you better, happier, and more productive. Ashley will outline the most commonly 
 for starting a project, managing a project through development, test, and deployment, and
 managing teams and organization project work. She’ll focus in particular on workflows that
 will help frontend developers, npm’s biggest and fastest-growing group of users.
+
+#### [Josh Emerson](https://github.com/joshje)
+
+#### [Mete Atamel](https://github.com/meteatamel)
+
+#### [Gareth Ellis](https://github.com/gareth-ellis)
+
+Gareth has been working in the area of Runtime Performance Analysis at IBM since 2012. Originally concentrating on Java, he has now moved to concentrating more on Node.js. He is also a regular attendee to the benchmarking workgroup, and has contributed to the benchmarks being run on a nightly basis.
+
+Benchmarks and the information they provide are important to ensure that changes going into Node.js don't regress key attributes like startup speed, memory footprint and throughput.
+This talk will cover an introduction to benchmarking & key challenges, approaches to benchmarking Node.js & identifying regressions, the Node.js benchmarking workgroup's current benchmarks and use case scenarios, and how to get involved.
+
+#### [Luca Marchesini](https://github.com/xbill82)
+
+#### [Alexander Gugel](https://github.com/alexanderGugel)
