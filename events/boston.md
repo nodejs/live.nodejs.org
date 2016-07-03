@@ -1,7 +1,7 @@
 # Boston
 
 **August 24, 2016**
-* **Location** [District Hall](www.districthallboston.org)
+* **Location** [District Hall](http://www.districthallboston.org/)
 * **Address** 75 Northern Avenue Boston, MA 02210
 
 <a class="button" href="https://www.regonline.com/Register/Checkin.aspx?EventID=1813427">Register Now!</a>
