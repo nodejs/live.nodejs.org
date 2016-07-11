@@ -33,7 +33,7 @@ Time | Speaker | Topic
 7:00pm | [Mete Atamel](https://github.com/meteatamel) | Node.js in the Cloud
 7:20pm | | Break and stretch
 7:30pm | [Gareth Ellis](https://github.com/gareth-ellis) | Node.js Community Benchmarking Efforts
-7:50pm | [Luca Marchesini](https://github.com/xbill82) | Mastering integration tests in the Node.js world
+7:50pm | |
 8:10pm | [Alexander Gugel](https://github.com/alexanderGugel) | Rethinking Package Management in Node.js
 8:30pm | | Thanks and time to make more Node.js friends
 
@@ -70,6 +70,5 @@ Gareth has been working in the area of Runtime Performance Analysis at IBM since
 Benchmarks and the information they provide are important to ensure that changes going into Node.js don't regress key attributes like startup speed, memory footprint and throughput.
 This talk will cover an introduction to benchmarking & key challenges, approaches to benchmarking Node.js & identifying regressions, the Node.js benchmarking workgroup's current benchmarks and use case scenarios, and how to get involved.
 
-#### [Luca Marchesini](https://github.com/xbill82)
 
 #### [Alexander Gugel](https://github.com/alexanderGugel)
