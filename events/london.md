@@ -61,7 +61,11 @@ will help frontend developers, npm’s biggest and fastest-growing group of user
 
 #### [Josh Emerson](https://github.com/joshje)
 
+Josh Emerson is a web developer who likes to use technology to create frictionless solutions to genuine human needs. He's worked at agencies and startups, and now works at Snyk, where he's building tools which help the npm community to create and use open source software more securely.
+
 #### [Mete Atamel](https://github.com/meteatamel)
+
+Mete is a Developer Advocate at Google, currently focused on helping developers with Google Cloud Platform. Prior to Google, he worked as a Software Engineer at Microsoft, Skype, Adobe, EMC, and Nokia building apps and services on various web, mobile and cloud technologies.
 
 #### [Gareth Ellis](https://github.com/gareth-ellis)
 
@@ -72,3 +76,7 @@ This talk will cover an introduction to benchmarking & key challenges, approache
 
 
 #### [Alexander Gugel](https://github.com/alexanderGugel)
+
+Alex is currently contracting at Sky, where he is working on a centralised editorial system for NowTV. He previously worked at Famous in Amsterdam and SF, building a WebGL / DOM rendering engine. Alex is obsessed with package management, RxJS and ES proposals. He has a love affair with Go, even though his true love will always be Node.js.
+
+Alex will be talking about [ied](https://github.com/alexanderGugel/ied), an alternative package manager for Node.js. He is going to focus on the challenges he faced when writing a package manager for Node.js, how ied's architecture is different from npm's and why it results into better performance.
