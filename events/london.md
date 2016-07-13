@@ -32,10 +32,11 @@ Time | Speaker | Topic
 6:40pm | [Josh Emerson](https://github.com/joshje) | Writing Secure Node.js Code
 7:00pm | [Mete Atamel](https://github.com/meteatamel) | Node.js in the Cloud
 7:20pm | | Break and stretch
-7:30pm | [Gareth Ellis](https://github.com/gareth-ellis) | Node.js Community Benchmarking Efforts
-7:50pm | [Luke Bond](https://twitter.com/lukeb0nd)| Running Node.js in Production on Linux
-8:10pm | [Alexander Gugel](https://github.com/alexanderGugel) | Rethinking Package Management in Node.js
-8:30pm | | Thanks and time to make more Node.js friends
+7:25pm | | OpBeat lightning talk
+7:35pm | [Gareth Ellis](https://github.com/gareth-ellis) | Node.js Community Benchmarking Efforts
+7:55pm | [Luke Bond](https://twitter.com/lukeb0nd)| Running Node.js in Production on Linux
+8:15pm | [Alexander Gugel](https://github.com/alexanderGugel) | Rethinking Package Management in Node.js
+8:35pm | | Thanks and time to make more Node.js friends
 
 [Let us know](https://github.com/nodejs/live.nodejs.org#interested-in-speaking)
 if you're interested in speaking :)
