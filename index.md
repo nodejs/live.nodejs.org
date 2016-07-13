@@ -35,6 +35,6 @@
     </div>
     <div class="live-event column">
       <h3><a href="events/washington.html">Washington DC metro</a></h3>
-      <p>October 2016</p>
+      <p>October 26, 2016</p>
     </div>
   </div>
