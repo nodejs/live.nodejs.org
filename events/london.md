@@ -76,7 +76,7 @@ Benchmarks and the information they provide are important to ensure that changes
 This talk will cover an introduction to benchmarking & key challenges, approaches to benchmarking Node.js & identifying regressions, the Node.js benchmarking workgroup's current benchmarks and use case scenarios, and how to get involved.
 
 #### [Luke Bond](https://twitter.com/lukeb0nd)
-Lead Engineer, YLD
+Luke has been working as a back-end developer for many years, currently with Node.js and Linux Containers at YLD, and previously at Sony Computer Entertainment Europe. A developer with a diverse background, he has battle-tested experience delivering solid solutions to production. Luke built an open-source, container-based PaaS called Paz (http://paz.sh) and has delivered talks at CoreOS Fest, Container Camp, Docker London, Node on the Road Lisbon, and various London Node, container and DevOps meetups. Luke currently helps YLD's customers embrace Continuous Delivery and to put DevOps philosophies into practice.
 
 Almost all Node.js deployments in production are running on Linux. This talk explores the nuts and bolts of the average Node.js application running on Linux, focusing on process monitoring options like PM2 and systemd, as well as clustering and service discovery considerations.
 
