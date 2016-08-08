@@ -12,7 +12,7 @@
 
 ![https://www.socialtables.com/](/static/sponsors/socialtables-logo.png "socialtables")
 
-We're still looking for sponsors. <a href="mailto:tbenzies@linuxfoundation.org?subject=Node.js%20Live%20Sponsorship">Contact us</a> if you're interested.
+![http://www.telerik.com/modulus](/static/sponsors/progress-logo.png "Progress")
 
 ## NodeTogether by ![https://www.npmjs.com](/static/sponsors/npm-logo.svg "npm")
 
