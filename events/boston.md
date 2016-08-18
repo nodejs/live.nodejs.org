@@ -32,7 +32,7 @@ Time | Speaker | Topic
 5:45pm | IBM welcome
 5:50pm | [Mikeal Rogers](https://twitter.com/mikeal) | Node.js Everywhere
 6:10pm | [Ashley Williams](https://github.com/ashleygwilliams) | Welcome / You Don't Know NPM
-6:30pm | [Francis Gulotta](https://bocoup.com/about/bocouper/reconbot) | Testing the Backbone of Node.js Hardware Control
+6:30pm | [Francis Gulotta](https://bocoup.com/about/bocouper/reconbot) | Providing a good Developer Experience for JavaScript Hardware
 7:00pm | [Sara Robinson](https://twitter.com/srobtweets) | Big Data and Machine Learning Magic with Node.js and Google Cloud
 7:20pm | [Michael Dawson](https://twitter.com/nimblemichael) | Micro-Apps With Node.js, Browsers, Phones (cordova), and Electron
 7:40pm | [Dan Shaw](https://github.com/dshaw) | The Node.js Ecosystem in Perspective
