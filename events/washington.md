@@ -28,7 +28,7 @@ Time | Speaker | Topic
 6:30pm | IBM welcome
 6:35pm | [Mikeal Rogers](https://twitter.com/mikeal) | Node.js Everywhere
 6:50pm | [Ashley Williams](https://github.com/ashleygwilliams) | Welcome / You Don't Know NPM
-7:10pm | [Rich Littauer](https://github.com/RichardLitt) | Standardizing REAMDEs for Great Good
+7:10pm | [Rich Littauer](https://github.com/RichardLitt) | Standardizing READMEs for Great Good
 7:30pm | [Sara Robinson](https://twitter.com/srobtweets) | Big Data and Machine Learning Magic with Node.js and Google Cloud
 7:50pm | stretch and bio break!
 7:55pm | [Alex Grigoryan](https://github.com/AlexG92) | How to Accelerate Digital Transformation: @WalmartLab’s Migrated to React and Nodejs in Less Than a Year
