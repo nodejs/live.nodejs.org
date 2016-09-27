@@ -24,15 +24,17 @@ To learn more, and/or if you are interested in applying as a student, mentor, or
 
 Time | Speaker | Topic
 --- | --- | ---
- | IBM welcome
- | [Mikeal Rogers](https://twitter.com/mikeal) | Node.js Everywhere
- | [Ashley Williams](https://github.com/ashleygwilliams) | Welcome / You Don't Know NPM
- | [Rich Littauer](https://github.com/RichardLitt) | Standardizing REAMDEs for Great Good
- | [Sara Robinson](https://twitter.com/srobtweets) | Big Data and Machine Learning Magic with Node.js and Google Cloud
- | [Alex Grigoryan](https://github.com/AlexG92) | How to Accelerate Digital Transformation: @WalmartLab’s Migrated to React and Nodejs in Less Than a Year
- | [Portia Burton](https://github.com/pkafei) | Bitcoin, Blockchain, and Node.js
- | [Myles Borins](https://github.com/TheAlphaNerd) | The CIGTM Diaries
- | [Dan Shaw](https://github.com/dshaw) | The Node.js Ecosystem in Perspective
+6:00pm | Reception |
+6:30pm | IBM welcome
+6:35pm | [Mikeal Rogers](https://twitter.com/mikeal) | Node.js Everywhere
+6:50pm | [Ashley Williams](https://github.com/ashleygwilliams) | Welcome / You Don't Know NPM
+7:10pm | [Rich Littauer](https://github.com/RichardLitt) | Standardizing REAMDEs for Great Good
+7:30pm | [Sara Robinson](https://twitter.com/srobtweets) | Big Data and Machine Learning Magic with Node.js and Google Cloud
+7:50pm | stretch and bio break!
+7:55pm | [Alex Grigoryan](https://github.com/AlexG92) | How to Accelerate Digital Transformation: @WalmartLab’s Migrated to React and Nodejs in Less Than a Year
+8:15pm | [Portia Burton](https://github.com/pkafei) | Bitcoin, Blockchain, and Node.js
+8:35pm | [Myles Borins](https://github.com/TheAlphaNerd) | The CIGTM Diaries
+8:55pm | [Dan Shaw](https://github.com/dshaw) | The Node.js Ecosystem in Perspective
 
 # Speakers
 
