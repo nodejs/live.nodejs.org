@@ -14,6 +14,8 @@
 
 ![http://www.telerik.com/modulus](/static/sponsors/progress-logo.png "Progress")
 
+![http://www.emergingtechnologyadvisors.com/](/static/sponsors/eta-logo.png "ETA")
+
 ## NodeTogether by ![https://www.npmjs.com](/static/sponsors/npm-logo.svg "npm")
 
 NodeTogether is an educational initiative to improve the diversity of the Node community by bringing people of underrepresented groups together to learn Node.js.
@@ -25,18 +27,21 @@ To learn more, and/or if you are interested in applying as a student, mentor, or
 Time | Speaker | Topic
 --- | --- | ---
 6:00pm | Reception |
-6:30pm | IBM welcome
-6:35pm | SocialTables lightning talk
-6:40pm | Progress lightning talk
+6:30pm | IBM welcome |
+6:35pm | Social Tables lightning talk |
+6:40pm | Progress lightning talk |
 6:45pm | [Mikeal Rogers](https://twitter.com/mikeal) | Node.js Everywhere
-7:00pm | [Ashley Williams](https://github.com/ashleygwilliams) | Welcome / You Don't Know NPM
-7:20pm | [Rich Littauer](https://github.com/RichardLitt) | Standardizing READMEs for Great Good
-7:40pm | [Sara Robinson](https://twitter.com/srobtweets) | Big Data and Machine Learning Magic with Node.js and Google Cloud
-8:00pm | stretch and bio break!
-8:20pm | [Alex Grigoryan](https://github.com/AlexG92) | How to Accelerate Digital Transformation: @WalmartLab’s Migrated to React and Nodejs in Less Than a Year
-8:40pm | [Portia Burton](https://github.com/pkafei) | Bitcoin, Blockchain, and Node.js
-9:00pm | [Myles Borins](https://github.com/TheAlphaNerd) | The CIGTM Diaries
-9:20pm | [Dan Shaw](https://github.com/dshaw) | The Node.js Ecosystem in Perspective
+7:00pm | [Rich Littauer](https://github.com/RichardLitt) | Standardizing READMEs for Great Good
+7:20pm | [Sara Robinson](https://twitter.com/srobtweets) | Big Data and Machine Learning Magic with Node.js and Google Cloud
+7:40pm | stretch and bio break!
+7:50pm | [Alex Grigoryan](https://github.com/AlexG92) | How to Accelerate Digital Transformation: @WalmartLab’s Migrated to React and Nodejs in Less Than a Year
+8:10pm | [Portia Burton](https://github.com/pkafei) | Bitcoin, Blockchain, and Node.js
+8:30pm | [Myles Borins](https://github.com/TheAlphaNerd) | The CIGTM Diaries
+8:50pm | [Dan Shaw](https://github.com/dshaw) | The Node.js Ecosystem in Perspective
+9:10pm  | | ↓ ↓ ↓ Happy Hour! ↓ ↓ ↓
+
+Visit with speakers and new friends at our happy hour hosted by   ![http://www.emergingtechnologyadvisors.com/](/static/sponsors/eta-logo.png "ETA")  
+across the street at [Laughing Man Tavern](http://www.laughingmantavern.com/) directly after our closing.
 
 # Speakers
 
