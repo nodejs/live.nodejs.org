@@ -57,15 +57,6 @@ the rest of 2016.
 
 Richard Littauer is a member of Protocol Labs, busy building a better, decentralized, and permanent internet. He is dedicated to community infrastructure, and has run several NodeSchools in the developing and development world, spoken at meetups from New York to Svalbard, and spends a lot of this time making sure that docs are maintained and relevant. He likes books a lot, too.
 
-#### [Ashley Williams](https://github.com/ashleygwilliams)
-
-Ashley, npm's Developer Community and Content Manager, gives a quick tour of npm’s greatest
-features, old and new, and demonstrates how they can be integrated into your workflow to make
-you better, happier, and more productive. Ashley will outline the most commonly used npm tools
-for starting a project, managing a project through development, test, and deployment, and
-managing teams and organization project work. She’ll focus in particular on workflows that
-will help frontend developers, npm’s biggest and fastest-growing group of users.
-
 #### [Sara Robinson](https://twitter.com/srobtweets)
 Sara is a Developer Advocate on Google's Cloud Platform team, where she helps with developer relations through online content, outreach and events. She has a bachelor’s degree in Business and International Studies from Brandeis University. When she's not programming, she can be found running, listening to country music, or finding the best ice cream in New York.
 
