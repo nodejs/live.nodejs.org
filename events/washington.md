@@ -59,7 +59,6 @@ Richard Littauer is a member of Protocol Labs, busy building a better, decentral
 #### [Sara Robinson](https://twitter.com/srobtweets)
 Sara is a Developer Advocate on Google's Cloud Platform team, where she helps with developer relations through online content, outreach and events. She has a bachelor’s degree in Business and International Studies from Brandeis University. When she's not programming, she can be found running, listening to country music, or finding the best ice cream in New York.
 
-Big Data and Machine Learning Magic with Node.js and Google Cloud
 Want to take advantage of machine learning without building and training your own models? The Google Cloud machine learning APIs expose the functionality behind Google Photos, Google Images, and the speech recognition in “Ok, Google” through a simple REST API call. In this talk, I’ll provide an overview of these APIs, show you how to use them with Node, and risk it all with a live demo. I'll also provide a peek into the Node.js community by querying terabytes of data.
 
 #### [Alex Grigoryan](https://github.com/AlexG92)
