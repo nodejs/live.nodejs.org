@@ -34,11 +34,10 @@ Time | Speaker | Topic
 7:00pm | [Rich Littauer](https://github.com/RichardLitt) | Standardizing READMEs for Great Good
 7:20pm | [Sara Robinson](https://twitter.com/srobtweets) | Big Data and Machine Learning Magic with Node.js and Google Cloud
 7:40pm | stretch and bio break!
-7:50pm | [Alex Grigoryan](https://github.com/AlexG92) | How to Accelerate Digital Transformation: @WalmartLab’s Migrated to React and Nodejs in Less Than a Year
-8:10pm | [Portia Burton](https://github.com/pkafei) | Bitcoin, Blockchain, and Node.js
-8:30pm | [Myles Borins](https://github.com/TheAlphaNerd) | The CIGTM Diaries
-8:50pm | [Dan Shaw](https://github.com/dshaw) | The Node.js Ecosystem in Perspective
-9:10pm  | | ↓ ↓ ↓ Happy Hour! ↓ ↓ ↓
+7:50pm | [Portia Burton](https://github.com/pkafei) | Bitcoin, Blockchain, and Node.js
+8:10pm | [Myles Borins](https://github.com/TheAlphaNerd) | The CIGTM Diaries
+8:30pm | [Dan Shaw](https://github.com/dshaw) | The Node.js Ecosystem in Perspective
+9:00pm  | | ↓ ↓ ↓ Happy Hour! ↓ ↓ ↓
 
 Visit with speakers and new friends at our happy hour hosted by   ![http://www.emergingtechnologyadvisors.com/](/static/sponsors/eta-logo.png "ETA")  
 across the street at [Laughing Man Tavern](http://www.laughingmantavern.com/) directly after our closing.
