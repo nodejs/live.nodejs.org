@@ -31,7 +31,7 @@ Time | Speaker | Topic
 6:35pm | Social Tables lightning talk |
 6:40pm | Progress lightning talk |
 6:45pm | [Mikeal Rogers](https://twitter.com/mikeal) | Node.js Everywhere
-7:00pm | [Rich Littauer](https://github.com/RichardLitt) | Standardizing READMEs for Great Good
+7:00pm | [Richard Littauer](https://github.com/RichardLitt) | Standardizing READMEs for Great Good
 7:20pm | [Sara Robinson](https://twitter.com/srobtweets) | Big Data and Machine Learning Magic with Node.js and Google Cloud
 7:40pm | stretch and bio break!
 7:50pm | [Portia Burton](https://github.com/pkafei) | Bitcoin, Blockchain, and Node.js
@@ -52,7 +52,7 @@ Mikeal is the Community Manager of the Node.js Foundation and the creator of
 His talk will be all about what the Foundation has been up to recently and its plans for
 the rest of 2016.
 
-#### [Rich Littauer](https://github.com/RichardLitt)
+#### [Richard Littauer](https://github.com/RichardLitt)
 
 Richard Littauer is a member of Protocol Labs, busy building a better, decentralized, and permanent internet. He is dedicated to community infrastructure, and has run several NodeSchools in the developing and development world, spoken at meetups from New York to Svalbard, and spends a lot of this time making sure that docs are maintained and relevant. He likes books a lot, too.
 
